@@ -99,3 +99,5 @@ Naïve prompts → Generic, vague, sometimes confusing results.
 Basic prompts → Focused, structured, more informative, and task-specific outputs.
 For creative, advisory, or explanatory tasks, refined prompts are essential for optimal results.
 Good prompt design is a skill: the more specific and structured the prompt, the better the AI performs.
+
+# RESULT: The prompt for the above said problem executed successfully
